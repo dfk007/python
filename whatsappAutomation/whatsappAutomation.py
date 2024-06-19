@@ -2,4 +2,4 @@
 import pywhatkit
 
 
-pywhatkit.sendwhatmsg("+923455137420", "Hello World")
+pywhatkit.sendwhatmsg("+92309-****", "Hello World", 6, 44)
